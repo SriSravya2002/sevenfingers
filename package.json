@@ -1,0 +1,19 @@
+{
+    "name": "sevenfingers",
+    "version": "0.0.2",
+    "main": "work",
+    "repository": {
+        "type": "git",
+        "url":"https://github.com/SriSravya2002/sevenfingers.git"
+    },
+    "keywords": [
+        "sevenfingers"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+   
+    
+    
+}
